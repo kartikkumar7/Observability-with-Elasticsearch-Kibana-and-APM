@@ -1,3 +1,8 @@
+#How to extend Observability to your FastAPI application
+<a href = "https://codelabs-preview.appspot.com/?file_id=1HMyhetRZGkjQvGWFVoHMlZYIh5aIxuT3Fdy8t7izdtA#0">Here is codelab for reference</a>
+<a href = "https://github.com/elastic/elasticsearch-py/tree/main/examples/fastapi-apm">Original post</a>
+
+
 # Async Elasticsearch and Observability Example
 
 This example provides a `docker-compose` file based on
